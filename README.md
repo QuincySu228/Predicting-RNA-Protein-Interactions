@@ -14,7 +14,6 @@ The thesis presents a novel deep learning approach using Graph Autoencoder (GAE)
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Acknowledgments](#acknowledgments)
-- [References](#references)
 
 ## Thesis Structure
 
