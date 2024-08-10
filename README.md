@@ -74,4 +74,4 @@ A comprehensive list of references is available in the thesis document, covering
 
 For more information, the full thesis document can be accessed [here](link-to-thesis-document). For any inquiries or further collaboration, please contact:
 
-- **Qin Su**: [email@address.edu]
+- **Qin Su**: [Qin.Su@uky.edu]
