@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the research work and associated materials for the undergraduate thesis titled **"Predicting Long Non-coding RNA-Protein Interactions Based on Deep Learning Model"** submitted by Qin Su at Nankai University in May 2022. The thesis presents a novel deep learning approach using Graph Autoencoder (GAE) and Graph Attention Networks (GAT) to predict interactions between long non-coding RNAs (lncRNAs) and proteins, which are crucial for understanding complex biological processes and diseases.
+The thesis presents a novel deep learning approach using Graph Autoencoder (GAE) and Graph Attention Networks (GAT) to predict interactions between long non-coding RNAs (lncRNAs) and proteins, which are crucial for understanding complex biological processes and diseases.
 
 ## Table of Contents
 
