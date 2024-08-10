@@ -66,10 +66,6 @@ This thesis presents a deep learning approach that effectively predicts lncRNA-p
 
 I would like to express my deepest gratitude to my thesis advisor, **Prof. Han Zhang**, for his invaluable guidance and support throughout this project. I also thank my family, friends, and colleagues for their encouragement and assistance. This research was completed at the College of Artificial Intelligence, Nankai University.
 
-## References
-
-A comprehensive list of references is available in the thesis document, covering the foundational literature and recent advances in lncRNA-protein interaction prediction.
-
 ---
 
 For more information, the full thesis document can be accessed [here](link-to-thesis-document). For any inquiries or further collaboration, please contact:
