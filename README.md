@@ -61,12 +61,12 @@ The study also explored the potential of using Graph Attention Networks (GAT) fo
 
 This thesis presents a deep learning approach that effectively predicts lncRNA-protein interactions, offering a powerful tool for molecular biology research. The model's superior performance compared to existing methods highlights the potential of deep learning in bioinformatics. Future work may focus on combining GCN and GAT layers or exploring variational autoencoders to further enhance prediction accuracy.
 
-## Acknowledgments
+
+<!--## Acknowledgments
 
 I would like to express my deepest gratitude to my thesis advisor, **Prof. Han Zhang**, for his invaluable guidance and support throughout this project. I also thank my family, friends, and colleagues for their encouragement and assistance. This research was completed at the College of Artificial Intelligence, Nankai University.
 
 ---
 
 For more information, the full thesis document can be accessed [here](link-to-thesis-document). For any inquiries or further collaboration, please contact:
-
-<!--- **Qin Su**: [Qin.Su@uky.edu] -->
+- **Qin Su**: [Qin.Su@uky.edu] -->
