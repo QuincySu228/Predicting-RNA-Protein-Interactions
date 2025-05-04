@@ -69,4 +69,4 @@ I would like to express my deepest gratitude to my thesis advisor, **Prof. Han Z
 
 For more information, the full thesis document can be accessed [here](link-to-thesis-document). For any inquiries or further collaboration, please contact:
 
-- **Qin Su**: [Qin.Su@uky.edu]
+<!--- **Qin Su**: [Qin.Su@uky.edu] -->
